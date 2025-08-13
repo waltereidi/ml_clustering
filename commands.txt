@@ -1,0 +1,10 @@
+---------CRIAR AMBIENTE-----------
+python3.9 -m venv venv
+sudo source venv/bin/activate
+pip install notebook
+pip install jupyterlab
+
+
+----------INICIALIZAR----------------------
+jupyter lab
+jupyter notebook
